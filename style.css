@@ -1,0 +1,10 @@
+.download:hover {
+  background-color: #1d1d1f;
+  cursor: pointer;
+}
+
+.sign:hover {
+  background-color: #101010;
+  cursor: pointer;
+  color:#ffff;
+}
